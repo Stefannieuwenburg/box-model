@@ -1,0 +1,24 @@
+
+.black-border{border:5px solid black;
+    margin: 20px;
+    padding: 20px;
+    padding-left: 20px;
+}
+.x-center{margin: 0 auto;
+    width: 500pxs;
+ }
+ .navigation-links li{
+   display:inline;
+   margin: 20px;
+   font-size: 30px;
+
+ }
+.foto-text{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.box-1{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
